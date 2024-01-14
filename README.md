@@ -1,21 +1,12 @@
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
-
 <h2> Hello, I am Ahmed Behary.</h2>
 
 <img width="200" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-I'm a communication and electronics student who is passionate about Embedded Software.
-
-- 🎓 &nbsp; I’m currently a senior student at Al Azhar Unversity.
-- 💼 &nbsp; Working as an Embedded firmware internship at GOODIX Egypt.
-- 🌱 &nbsp; Learning more about Microcontrollers , Embedded Sofware , Embedded Linux and AUTOSAR. 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mahmoud-karem-zamel) [Gmail](https://www.mahmoudkarem.me@gmail.com)
+I'm a computer science graduate who is passionate about Embedded Software.
 
 <h3>  &nbsp;🛠️ Languages and Tools:</h3>
-
 
 - 💻 &nbsp;
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
