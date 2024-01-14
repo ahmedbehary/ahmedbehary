@@ -27,17 +27,6 @@ I'm a computer science graduate who is passionate about Embedded Software.
 <br/>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### ✨ Visitors 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mahmoud-Karem" alt="Mahmoud-Karem" /> </p>
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### 📊 Profile stats
-
-[![Mahmoud Karem 's github stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-Karem&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Mahmoud-Karem/github-readme-stats)
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 </p>
 <img src="https://imgur.com/rilHVxA.png"/>
 </p>
