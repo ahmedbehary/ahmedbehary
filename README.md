@@ -10,7 +10,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-I'm a communication and electronics student who is passionate about Embedded Software.
+I'm a computer science graduate who is passionate about Embedded Systems.
 
 <h3>  &nbsp;🛠️ Languages and Tools:</h3>
 
