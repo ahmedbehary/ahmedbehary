@@ -1,6 +1,8 @@
-<h2> Hello, I am Ahmed Behary.</h2>
+<h3 align="center">
+  Welcome to Ahmed Behary's profile!
+</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded%20Software%20Engineer;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
