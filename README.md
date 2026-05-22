@@ -10,7 +10,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-I'm a computer science graduate who is passionate about SW development.
+I'm a computer science graduate who is passionate about Data Engineering.
 
 <h3>  &nbsp;🛠️ Languages and Tools:</h3>
 
@@ -27,5 +27,4 @@ I'm a computer science graduate who is passionate about SW development.
 
 -🔧 &nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
