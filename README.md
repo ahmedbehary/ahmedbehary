@@ -10,7 +10,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-I'm a computer science graduate who is passionate about Data Engineering.
+I'm a computer science graduate who is passionate about Data Engineering & Data Analysis.
 
 <h3>  &nbsp;🛠️ Languages and Tools:</h3>
 
