@@ -18,7 +18,7 @@ I'm a computer science graduate who is passionate about Data Engineering & Data 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-![SQL](https://www.flaticon.com/free-icon/database_4248443?term=sql&page=1&position=2&origin=search&related_id=4248443)
+
 -⚙️ &nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
