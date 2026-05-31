@@ -23,7 +23,9 @@ I'm a computer science graduate who is passionate about Data Engineering & Data 
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/-Airflow-333333?style=flat&logo=apacheairflow&logoColor=white)
+![Spark](https://img.shields.io/badge/-Spark-333333?style=flat&logo=apachespark&logoColor=white)
 
 -🔧 &nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![dbt](https://img.shields.io/badge/-dbt-333333?style=flat&logo=dbt&logoColor=white)
 
