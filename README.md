@@ -17,7 +17,6 @@ I'm a computer science graduate who is passionate about Data Engineering & Data 
 -💻 &nbsp;
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 
 -⚙️ &nbsp;
