@@ -7,9 +7,8 @@
 </p> 
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
-I'm a computer science graduate who is passionate about Data Engineering & Data Analysis.
-
+A detail-oriented Data & BI Engineer with 2+ years of experience leveraging Python, SQL, and Power BI to transform complex data into clear, actionable insights. Passionate about delivering data-driven solutions that enhance business performance, define meaningful KPIs, and forecast future outcomes.
+Throughout my career, I have developed a strong ability to design and implement end-to-end data engineering projects — from architecting and automating data pipelines to delivering compelling visualizations that empower stakeholders to make informed decisions.
 <h3>  &nbsp;🛠️ Languages and Tools:</h3>
 
 -💻 &nbsp;
